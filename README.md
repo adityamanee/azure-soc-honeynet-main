@@ -4,9 +4,7 @@
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Build a SOC + Honeynet in Azure](https://youtu.be/mOjbD7FkUUI)
 
-[![How To Build a SOC + Honeynet in Azure](https://img.youtube.com/vi/mOjbD7FkUUI/0.jpg)](https://www.youtube.com/watch?v=mOjbD7FkUUI)
 
 
 ## Introduction
